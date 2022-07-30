@@ -1,6 +1,6 @@
 ### #18 Contributor / Elixir
 
-[50 commits were merged](https://github.com/elixir-lang/elixir/commits?author=ggcampinho) into the language with substantial contributions on issues labeled as Advanced. One of my latest contributions added the ability to have diffs on pattern matching for tests and it was [mentioned in all the main Elixir conferences by José Valim](https://www.youtube.com/watch?t=623&v=1NoX2tKMHcc&feature=youtu.be).
+[50 commits were merged](https://github.com/elixir-lang/elixir/commits?author=ggcampinho) into the language with substantial contributions on issues labeled as Advanced. One of my latest contributions added the ability to have diffs on pattern matching for tests and it was [mentioned in the Elixir Conf by José Valim](https://www.youtube.com/watch?t=623&v=1NoX2tKMHcc&feature=youtu.be).
 
 ### Contributor / Erlang
 
